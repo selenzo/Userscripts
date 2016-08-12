@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         seasonvar.ru
 // @description  Remove strange
-// @version      0.1
+// @version      0.2
 // @author       selenzo
 // @match        *://seasonvar.ru/*
 // @updateURL    https://github.com/selenzo/Userscripts/raw/master/seasonvar.user.js
