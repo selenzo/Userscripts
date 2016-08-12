@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         vk.com
 // @description  Remove left AD
-// @namespace    http://tampermonkey.net/
 // @version      0.3
 // @author       selenzo
 // @match        *://vk.com/*
