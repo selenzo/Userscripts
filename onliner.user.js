@@ -2,14 +2,15 @@
 // @name         onliner.by
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
 // @author       selenzo
-// @match        https://www.onliner.by/*
+// @match        https://*.onliner.by/*
+// @updateURL    https://github.com/selenzo/Userscripts/blob/master/onliner.user.js
 // @grant        none
 // ==/UserScript==
 
 (function () {
     'use strict';
-
-
+    console.info('userscript!');
+    document.getElementsByClassName("bnr-top-wide")[0].remove();
+    document.getElementsByClassName("news-popular")[0].remove();
 })();
