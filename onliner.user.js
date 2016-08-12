@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         onliner.by
 // @description  Remove stranges
-// @version      0.2
+// @version      0.3
 // @author       selenzo
 // @match        https://*.onliner.by/*
 // @updateURL    https://github.com/selenzo/Userscripts/raw/master/onliner.user.js
