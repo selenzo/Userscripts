@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         onliner.by
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @author       selenzo
 // @match        https://*.onliner.by/*
 // @updateURL    https://github.com/selenzo/Userscripts/blob/master/onliner.user.js
