@@ -11,6 +11,7 @@
     console.info('userscript!');
     document.getElementsByClassName("td-for-left-block")[0].remove();
     document.getElementsByTagName('body')[0].getElementsByTagName('style')[0].remove();
+    (document.getElementsByClassName("full-news")[0].parentNode).childNodes[7].remove()
     window.onload = function () {
         document.getElementsByTagName('noindex')[0].remove();
         document.getElementsByTagName('noindex')[0].remove();
