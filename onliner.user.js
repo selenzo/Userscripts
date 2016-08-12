@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         onliner.by
+// @description  Remove stranges
 // @version      0.2
 // @author       selenzo
 // @match        https://*.onliner.by/*
