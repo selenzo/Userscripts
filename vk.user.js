@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         vk.com
-// @version      0.2
+// @description  Remove left AD
+// @version      0.3
 // @author       selenzo
 // @match        *://vk.com/*
 // @updateURL    https://github.com/selenzo/Userscripts/raw/master/vk.user.js
